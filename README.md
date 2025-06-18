@@ -1,4 +1,4 @@
-# cyber-threat-intel-dashboard
+# Cyber-Threat-Intel-Dashboard
 "A dashboard to visualize IOCs from threat intelligence feeds like AlienVault OTX and VirusTotal"
 
 
